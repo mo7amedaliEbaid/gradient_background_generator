@@ -9,13 +9,5 @@ An easy-to-use Flutter package for creating beautiful animated gradient backgrou
 - Customizable animation duration and angle
 - Preset color sets for quick setup
 
-## Installation
-
-Add the following line to your `pubspec.yaml` file:
-
-```yaml
-dependencies:
-  animated_gradient_background: ^1.0.0
-```
 
 
