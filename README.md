@@ -1,16 +1,21 @@
-# gradient_background_generator
+# Animated Gradient Background
 
-A new Flutter project.
+An easy-to-use Flutter package for creating beautiful animated gradient backgrounds with customizable styles, directions, and durations. Enhance your Flutter apps with stunning visual effects using this package.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Multiple gradient styles: Linear, Radial, Sweep
+- Various gradient directions
+- Customizable animation duration and angle
+- Preset color sets for quick setup
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add the following line to your `pubspec.yaml` file:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```yaml
+dependencies:
+  animated_gradient_background: ^1.0.0
+```
+
+
